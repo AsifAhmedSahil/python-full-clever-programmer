@@ -3,14 +3,15 @@ def name():
 
 name()
 
-#dynamic function
+#dynamic function ==> one arguments
 def name(name):
     print(name)
 
 name('sahil')
 
-# passing two parameters
+# passing two or multiple arguments
 def greeting(greet , name):
     print(f'{greet} {name}!')
 
 greeting("hi" , "sahil")
+
