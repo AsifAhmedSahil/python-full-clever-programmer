@@ -8,7 +8,7 @@ def sum(a,b):
 print(sum(3,5))
 
 '''
-convert ood calculator using functions
+convert food calculator using functions
 '''
 
 def calculateFoodTotal(food , tip):
