@@ -8,4 +8,6 @@ print(len(fruits))
 
 print(fruits[0:len(fruits)-1])
 
+# reverse the  array******************
+
 print(fruits[::-1])
